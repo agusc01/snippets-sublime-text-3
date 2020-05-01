@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+position();
+]]></content>
+    <tabTrigger>position</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# File</description>
+</snippet>

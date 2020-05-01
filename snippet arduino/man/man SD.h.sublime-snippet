@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/*
+SD
+begin() 
+exists() 
+mkdir() 
+open() 
+remove() 
+rmdir() 
+*/
+]]></content>
+    <tabTrigger>man_sd</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# SD</description>
+</snippet>

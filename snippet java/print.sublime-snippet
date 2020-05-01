@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+System.out.print("${1:msg}");
+]]></content>
+    <tabTrigger>print</tabTrigger>
+    <scope>source.java</scope>
+    <description>java print</description>
+</snippet>

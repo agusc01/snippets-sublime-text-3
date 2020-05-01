@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vw_get_message(${1:/*buf*/},${2:/*len*/})
+]]></content>
+    <tabTrigger>vw_get_message</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# VirtualWire</description>
+</snippet>

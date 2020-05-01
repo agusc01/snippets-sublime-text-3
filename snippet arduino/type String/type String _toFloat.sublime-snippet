@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+toFloat();
+]]></content>
+    <tabTrigger>_aStr_toFloat</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

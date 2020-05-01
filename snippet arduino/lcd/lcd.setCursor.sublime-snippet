@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+setCursor(${1:col}, ${2:row});
+]]></content>
+    <tabTrigger>setCursor</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# lcd</description>
+</snippet>

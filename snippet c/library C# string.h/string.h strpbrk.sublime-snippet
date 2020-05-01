@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strpbrk (${1: const char *str1 } , ${2: const char *str2 });
+]]></content>
+    <tabTrigger>strpbrk</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string.h</description>
+</snippet>

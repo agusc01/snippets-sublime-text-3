@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+free(${1:void *ptr});
+]]></content>
+    <tabTrigger>_free_stdlib</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

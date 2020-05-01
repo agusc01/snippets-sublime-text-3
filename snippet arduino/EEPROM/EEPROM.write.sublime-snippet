@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+write(${1:/*position*/},${2:/*value*/});
+]]></content>
+    <tabTrigger>write</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# EEPROM</description>
+</snippet>

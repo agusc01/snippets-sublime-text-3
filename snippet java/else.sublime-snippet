@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+else{ 
+	${1:}
+}
+]]></content>
+    <tabTrigger>else</tabTrigger>
+    <scope>source.java</scope>
+    <description>java else</description>
+</snippet>

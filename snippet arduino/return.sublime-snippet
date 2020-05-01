@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+return ${1:/*variable*/} ;
+]]></content>
+    <tabTrigger>return</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# return</description>
+</snippet>

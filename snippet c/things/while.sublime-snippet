@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+while(${1})
+	{
+	    ${2:// statement}
+	}
+]]></content>
+    <tabTrigger>while</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# while</description>
+</snippet>

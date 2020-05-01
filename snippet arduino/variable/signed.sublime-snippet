@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+signed 
+]]></content>
+    <tabTrigger>signed</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# signed</description>
+</snippet>

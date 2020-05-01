@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+
+    #define IO_13_B  100000    //LED
+
+    void f_blink (/* */)
+    {
+      PORTB |= IO_13_B; //digitalWrite in HIGH,
+      delay(1000);
+      PORTB &= ~IO_13_B;  //digitalWrite in Low
+      delay(1000);
+    }  
+
+    f_blink();
+
+
+
+
+ 
+
+]]></content>
+    <tabTrigger>_gpio_PORT</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# gpio PORT!</description>
+</snippet>

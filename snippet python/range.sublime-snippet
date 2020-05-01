@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+range(${1:secuencia})
+]]></content>
+    <tabTrigger>range</tabTrigger>
+    <scope>source.python</scope>
+    <description>.py range</description>
+</snippet>

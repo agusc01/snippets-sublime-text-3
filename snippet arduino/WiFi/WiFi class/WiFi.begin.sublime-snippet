@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+begin(${1:ssid},${2:pass});
+]]></content>
+    <tabTrigger>begin</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi</description>
+</snippet>

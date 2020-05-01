@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+scanNetworks();
+]]></content>
+    <tabTrigger>_WiFi.scanNetworks</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

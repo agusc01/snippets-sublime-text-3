@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+srand(${1:unsigned int seed});
+]]></content>
+    <tabTrigger>_srand_stdlib</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

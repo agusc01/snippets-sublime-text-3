@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ctype
+]]></content>
+    <tabTrigger>lb_ctype</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# ctype</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+SD.
+]]></content>
+    <tabTrigger>sd</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# SD</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+short ${1:/*name*/}
+]]></content>
+    <tabTrigger>short</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# short</description>
+</snippet>

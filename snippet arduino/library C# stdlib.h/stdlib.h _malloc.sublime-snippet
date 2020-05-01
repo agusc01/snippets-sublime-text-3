@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+malloc(${1:size_t size});
+]]></content>
+    <tabTrigger>_malloc_stdlib</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

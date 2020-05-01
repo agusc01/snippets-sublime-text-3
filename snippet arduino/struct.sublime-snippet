@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+struct
+{
+  ${1:// statement}
+}${2:newNameStruct};
+]]></content>
+    <tabTrigger>struct</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# struct</description>
+</snippet>

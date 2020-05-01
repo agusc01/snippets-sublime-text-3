@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+calloc(${1:size_t nitems} , ${2:size_t size});
+]]></content>
+    <tabTrigger>calloc</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

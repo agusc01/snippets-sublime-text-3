@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strcat (${1: void *dest } , ${2: const char *str }) ;
+]]></content>
+    <tabTrigger>_strcat_string</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# string.h</description>
+</snippet>

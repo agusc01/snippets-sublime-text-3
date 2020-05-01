@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+mkdir("${1:/*FILE_NAME*/}.txt"); 
+//SD.mkdir("a/b/c") will create a, b, and c. 
+]]></content>
+    <tabTrigger>mkdir</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>#A SD</description>
+</snippet>

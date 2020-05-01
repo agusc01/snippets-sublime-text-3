@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+bcopy (${1:/* *src,origin*/},  ${2:/* *dest */}, ${3:/*size_t n, bytes*/}); 
+]]></content>
+    <tabTrigger>_bcopy_strings</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# strings.h</description>
+</snippet>

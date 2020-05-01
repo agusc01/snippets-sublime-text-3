@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+mblen(${1:const char *str} , ${2:size_t n});
+]]></content>
+    <tabTrigger>_mblen_stdlib</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+memcpy (${1: void *dest } , ${2: const void *str2 }, ${3: size_t n }) ;
+]]></content>
+    <tabTrigger>_memcpy_string</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# string.h</description>
+</snippet>

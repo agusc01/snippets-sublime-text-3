@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+PORT${2:/*BDC*/} |= ${1:bitMask}; //digitalWrite in HIGH
+]]></content>
+    <tabTrigger>digitalWriteHigh</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# assembler</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strtoul(${1:const char *str} , ${2:char **endptr} , ${3:	int base});
+]]></content>
+    <tabTrigger>strtoul</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

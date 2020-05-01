@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+print("${1:msg}")
+]]></content>
+    <tabTrigger>print</tabTrigger>
+    <scope>source.python</scope>
+    <description>3.x.py print</description>
+</snippet>

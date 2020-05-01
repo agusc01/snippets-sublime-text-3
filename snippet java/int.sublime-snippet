@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+int ${1:name} = ${2:value} ;
+]]></content>
+    <tabTrigger>int</tabTrigger>
+    <scope>source.java</scope>
+    <description>java int</description>
+</snippet>

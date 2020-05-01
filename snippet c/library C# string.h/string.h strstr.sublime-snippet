@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strstr (${1: const char *haystack } , ${2: const char *needle });
+]]></content>
+    <tabTrigger>strstr</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string.h</description>
+</snippet>

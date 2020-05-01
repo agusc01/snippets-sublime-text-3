@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+toCharArray(${1:buf(char [])}, ${2:len});
+]]></content>
+    <tabTrigger>_aStr_toCharArray</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

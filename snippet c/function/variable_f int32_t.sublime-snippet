@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+int32_t f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_int32_t</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# int32_t</description>
+</snippet>

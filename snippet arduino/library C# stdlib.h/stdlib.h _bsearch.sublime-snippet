@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+bsearch(${1:const char *string});
+]]></content>
+    <tabTrigger>_bsearch_stdlib</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

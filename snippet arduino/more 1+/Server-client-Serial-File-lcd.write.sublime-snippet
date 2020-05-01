@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+write(${1:/*char or byte*/});
+]]></content>
+    <tabTrigger>write</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# Server-client-Serial-File-lcd</description>
+</snippet>

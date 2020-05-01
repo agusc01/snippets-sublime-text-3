@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+#include <LiquidCrystal_I2C.h>
+#include <Wire.h>
+LiquidCrystal_I2C lcd(${1:addres},${2:COLS_DEFAULT},${3:ROWS_DEFAULT});
+
+]]></content>
+    <tabTrigger>_include_lcd_i2c</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# lcd & i2c</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strncpy (${1: void *dest } , ${2: const char *str } , ${3: size_t n }) ;
+]]></content>
+    <tabTrigger>_strncpy_string</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# string.h</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vw_tx_active();
+]]></content>
+    <tabTrigger>vw_tx_active</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# VirtualWire</description>
+</snippet>

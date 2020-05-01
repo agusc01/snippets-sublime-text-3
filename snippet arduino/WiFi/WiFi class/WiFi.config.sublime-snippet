@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+config(${1:ip},${2:/*dns*/},${3:/*gateway*/},${4:/*subnet*/});
+]]></content>
+    <tabTrigger>config</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi</description>
+</snippet>

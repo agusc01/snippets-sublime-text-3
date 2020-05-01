@@ -1,0 +1,78 @@
+<snippet>
+    <content><![CDATA[
+/*
+structure
+The elements of Arduino (C++) code.
+Sketch
+loop() 
+setup() 
+************************************
+Control Structure
+break 
+continue 
+do...while 
+else 
+for 
+goto 
+if...else 
+return 
+switch...case 
+while 
+************************************
+Further Syntax
+#define (define) 
+#include (include) 
+/ * * / (block comment) 
+// (single line comment) 
+; (semicolon) 
+{} (curly braces)
+*************************************
+Arithmetic Operators
+% (remainder) 
+* (multiplication) 
++ (addition) 
+- (subtraction) 
+/ (division) 
+= (assignment operator) 
+*************************************
+Comparison Operators
+!= (not equal to) 
+< (less than) 
+<= (less than or equal to) 
+== (equal to) 
+> (greater than) 
+>= (greater than or equal to) 
+************************************
+Boolean Operators
+! (logical not) 
+&& (logical and) 
+|| (logical or) 
+************************************
+Pointer Access Operators
+& (reference operator) 
+* (dereference operator)
+************************************ 
+Bitwise Operators
+& (bitwise and) 
+<< (bitshift left) 
+>> (bitshift right) 
+^ (bitwise xor) 
+| (bitwise or) 
+~ (bitwise not) 
+************************************
+Compound Operators
+&= (compound bitwise and) 
+*= (compound multiplication) 
+++ (increment) 
++= (compound addition) 
+-- (decrement) 
+-= (compound subtraction) 
+/= (compound division) 
+^= (compound bitwise xor) 
+|= (compound bitwise or) 
+*/
+]]></content>
+    <tabTrigger>man_structure</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# structure</description>
+</snippet>

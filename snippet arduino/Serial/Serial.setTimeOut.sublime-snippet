@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+setTimeout(${1:time});
+]]></content>
+    <tabTrigger>settimeout</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# Serial</description>
+</snippet>

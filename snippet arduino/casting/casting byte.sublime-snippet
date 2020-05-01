@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+byte(${1:x}) 
+]]></content>
+    <tabTrigger>casting.byte</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

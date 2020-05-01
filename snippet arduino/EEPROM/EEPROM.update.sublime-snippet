@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+update(${1:/*position*/},${2:/*value*/});
+]]></content>
+    <tabTrigger>update</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# EEPROM</description>
+</snippet>

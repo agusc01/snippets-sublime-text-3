@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+(${1:/*char to read*/}) = getchar(); 
+]]></content>
+    <tabTrigger>_getchar_stdio</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdio.h</description>
+</snippet>

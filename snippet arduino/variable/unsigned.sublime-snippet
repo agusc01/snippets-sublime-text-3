@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+unsigned 
+]]></content>
+    <tabTrigger>unsigned</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino unsigned</description>
+</snippet>

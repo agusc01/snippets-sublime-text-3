@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vw_set_ptt_pin(${1:/*pin*/}) 
+]]></content>
+    <tabTrigger>vw_set_ptt_pin</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# VirtualWire</description>
+</snippet>

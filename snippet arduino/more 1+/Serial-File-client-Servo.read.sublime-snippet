@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+read();
+]]></content>
+    <tabTrigger>read</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# Serial-File-client-Servo</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+vw_setup(${1:/*baudios 2000*/});
+
+]]></content>
+    <tabTrigger>vw_setup</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# VirtualWire</description>
+</snippet>

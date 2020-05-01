@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strlen (${1: const char *str }) ;
+]]></content>
+    <tabTrigger>strlen</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string.h</description>
+</snippet>

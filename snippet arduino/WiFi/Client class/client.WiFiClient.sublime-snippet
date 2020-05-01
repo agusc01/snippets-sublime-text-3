@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+WiFiClient ${1:client};
+]]></content>
+    <tabTrigger>wificlient</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi.WiFiClient</description>
+</snippet>

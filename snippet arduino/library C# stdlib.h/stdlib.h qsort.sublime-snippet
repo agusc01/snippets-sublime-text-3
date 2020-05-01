@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+qsort(${1:const void *key} , ${2:const void *base} , ${3:size_t nitems} , ${4:size_t size} , ${5:int (*compar)(const void * ,const void *)} );
+]]></content>
+    <tabTrigger>qsort</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

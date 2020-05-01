@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+int32_t ${1:/*name*/}
+]]></content>
+    <tabTrigger>int32_t</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# int32_t</description>
+</snippet>

@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+/*
+	boolean 		1bit 	(0~1)
+	bool 			1bit 	(0~1)	better to use boolean
+	int8_t 			8bit 	(-128~127)
+	uint8_t 		8bit 	(0~255)
+	byte 			8bit	(0~255)
+	char 			8bit 	(0~255) CHARACTER ASCII
+	unsigned char 	8bit	(0~255)
+	short			16bit	(-32769~32768)
+	int 			16bit	(-32769~32768)
+	unsigned int 	16bit	(0~65535)
+	word 			16bit	(0~65535)
+	long 			32bit	(-2147483649~2147483648)
+	unsigned long 	32bit	(0~4294967295)
+	float 			32bit
+	unsigned float 	32bit
+	double 			64bit
+	unsigned double 64bit
+*/
+]]></content>
+    <tabTrigger>man_variable</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# variable</description>
+</snippet>

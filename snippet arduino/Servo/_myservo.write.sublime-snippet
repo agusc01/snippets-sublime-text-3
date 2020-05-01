@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+write(${1:angle});
+]]></content>
+    <tabTrigger>_Servo.write</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

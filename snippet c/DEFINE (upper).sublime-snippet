@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+#define ${1:IDENTIFIER} ${2:string}
+]]></content>
+    <tabTrigger>DEFINE</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# define</description>
+</snippet>

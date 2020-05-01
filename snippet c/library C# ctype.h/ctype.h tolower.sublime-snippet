@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tolower(${1:x})
+]]></content>
+    <tabTrigger>tolower</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# ctype.h</description>
+</snippet>

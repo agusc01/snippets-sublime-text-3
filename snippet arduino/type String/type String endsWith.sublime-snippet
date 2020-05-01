@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+endsWith(${1:/*ends string*/});
+]]></content>
+    <tabTrigger>endsWith</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

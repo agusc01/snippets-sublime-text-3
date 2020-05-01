@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+as ${1:default}
+]]></content>
+    <tabTrigger>as</tabTrigger>
+    <scope>source.python</scope>
+    <description>as</description>
+</snippet>

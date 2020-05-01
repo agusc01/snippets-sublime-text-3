@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+writeMicroseconds(${1:uS});
+]]></content>
+    <tabTrigger>_Servo.writeMicroseconds</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

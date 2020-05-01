@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+isLowerCase(${1:thisChar});
+]]></content>
+    <tabTrigger>isLowerCase</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

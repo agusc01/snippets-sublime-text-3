@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Serial.
+]]></content>
+    <tabTrigger>serial</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# Serial</description>
+</snippet>

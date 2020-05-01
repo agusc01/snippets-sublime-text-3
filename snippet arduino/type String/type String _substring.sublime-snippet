@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+substring(${1:/* string */});
+]]></content>
+    <tabTrigger>_aStr_substring</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

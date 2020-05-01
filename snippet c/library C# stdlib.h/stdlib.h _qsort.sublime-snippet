@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+qsort(${1:const void *key} , ${2:const void *base} , ${3:size_t nitems} , ${4:size_t size} , ${5:int (*compar)(const void * ,const void *)} );
+]]></content>
+    <tabTrigger>_qsort_stdlib</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

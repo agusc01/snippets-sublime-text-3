@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+signed 
+]]></content>
+    <tabTrigger>signed</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# signed</description>
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+int main(int argc, char const *argv[])
+{
+printf("main begin!\n");
+
+ ${1}	
+
+ printf("main end!\n");
+}
+
+]]></content>
+    <tabTrigger>_run_c</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# run c</description>
+</snippet>

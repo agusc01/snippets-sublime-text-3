@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+scrollDisplayLeft();
+]]></content>
+    <tabTrigger>_lcd.scrollDisplayLeft</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

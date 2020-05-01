@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+
+package ${1:clase};
+
+public class ${1:clase}{
+
+	public static void main(String[] args) {
+
+		${2:/* run */}
+
+
+		
+	}
+
+}
+]]></content>
+    <tabTrigger>_run.java</tabTrigger>
+    <scope>source.java</scope>
+    <description>java _run.java</description>
+</snippet>

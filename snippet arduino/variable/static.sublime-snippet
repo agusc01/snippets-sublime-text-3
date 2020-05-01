@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+static 
+]]></content>
+    <tabTrigger>static</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# static</description>
+</snippet>

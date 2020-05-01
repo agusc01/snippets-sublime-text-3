@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strrchr (${1: const char *str } , ${2: int c });
+]]></content>
+    <tabTrigger>strrchr</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string.h</description>
+</snippet>

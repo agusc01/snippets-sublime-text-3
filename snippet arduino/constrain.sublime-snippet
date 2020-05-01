@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+constrain(${1:x}, ${2:min}, ${3:max})
+]]></content>
+    <tabTrigger>constrain</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# constrain()</description>
+</snippet>

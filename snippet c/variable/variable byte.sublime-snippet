@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+byte ${1:/*name*/}
+]]></content>
+    <tabTrigger>byte</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# byte</description>
+</snippet>

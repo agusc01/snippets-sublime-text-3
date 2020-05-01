@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+final ${1:variable}
+]]></content>
+    <tabTrigger>final</tabTrigger>
+    <scope>source.java</scope>
+    <description>java final</description>
+</snippet>

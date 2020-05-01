@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+open("${1:/*FILE_NAME*/}.txt");
+]]></content>
+    <tabTrigger>_SD.open</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

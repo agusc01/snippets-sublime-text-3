@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strtod(${1:const char *str} , ${2:char **endptr});
+]]></content>
+    <tabTrigger>strtod</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

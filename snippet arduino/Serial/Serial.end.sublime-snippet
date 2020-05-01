@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+println("Serial.end() !");
+Serial.end();
+
+]]></content>
+    <tabTrigger>end</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# Serial</description>
+</snippet>

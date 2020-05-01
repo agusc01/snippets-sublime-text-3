@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+peek();
+]]></content>
+    <tabTrigger>_serial.peek</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

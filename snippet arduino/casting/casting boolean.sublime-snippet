@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+boolean(${1:x}) 
+]]></content>
+    <tabTrigger>casting.boolean</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

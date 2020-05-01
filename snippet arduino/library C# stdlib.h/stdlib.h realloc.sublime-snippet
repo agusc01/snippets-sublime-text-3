@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+realloc(${1:void *ptr} , ${2:size_t size});
+]]></content>
+    <tabTrigger>realloc</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

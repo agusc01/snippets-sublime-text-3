@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+compareTo(${1:/*string two*/});
+]]></content>
+    <tabTrigger>_aStr_compareTo</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

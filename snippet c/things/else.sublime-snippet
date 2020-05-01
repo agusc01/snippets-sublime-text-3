@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+else
+	{
+	    ${1}
+	}
+]]></content>
+    <tabTrigger>else</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# else</description>
+</snippet>

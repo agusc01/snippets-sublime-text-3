@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+toupper(${1:x})
+]]></content>
+    <tabTrigger>_ctype_toupper</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# ctype.h</description>
+</snippet>

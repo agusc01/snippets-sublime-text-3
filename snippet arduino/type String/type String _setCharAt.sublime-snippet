@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+setCharAt(${1:"position of char"}, '${2:"new char"}');
+]]></content>
+    <tabTrigger>_aStr_setCharAt</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

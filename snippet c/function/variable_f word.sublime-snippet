@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+word f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_word</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# word</description>
+</snippet>

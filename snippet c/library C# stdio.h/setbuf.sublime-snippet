@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+setbuf(stdin,NULL);
+
+]]></content>
+    <tabTrigger>setbuf</tabTrigger>
+        <scope>source.c</scope>
+    <description>C# linux setbuf stdio.h</description>
+</snippet>

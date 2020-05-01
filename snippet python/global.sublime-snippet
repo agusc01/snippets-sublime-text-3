@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+global ${1:variable}
+]]></content>
+    <tabTrigger>global</tabTrigger>
+    <scope>source.python</scope>
+    <description>.py global</description>
+</snippet>

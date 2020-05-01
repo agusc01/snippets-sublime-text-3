@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strerror (${1: int errnum }) ;
+]]></content>
+    <tabTrigger>strerror</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# string.h</description>
+</snippet>

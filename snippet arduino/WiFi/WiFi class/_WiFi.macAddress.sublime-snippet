@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+macAdrress(${1:mac});
+]]></content>
+    <tabTrigger>_WiFi.macAdrress</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

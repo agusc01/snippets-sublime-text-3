@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+long ${1:nome} = ${2:value} ;
+]]></content>
+    <tabTrigger>long</tabTrigger>
+    <scope>source.java</scope>
+    <description>java long</description>
+</snippet>

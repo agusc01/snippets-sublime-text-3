@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+volatile 
+]]></content>
+    <tabTrigger>volatile</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# volatile</description>
+</snippet>

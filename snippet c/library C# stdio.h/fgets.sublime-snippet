@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+fgets (${1:/*where is saved,array*/}, ${2:/*size*/}, ${3:/*File*stream*/}); 
+]]></content>
+    <tabTrigger>fgets</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdio.h</description>
+</snippet>

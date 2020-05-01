@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+getenv(${1:const char *name});
+]]></content>
+    <tabTrigger>getenv</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

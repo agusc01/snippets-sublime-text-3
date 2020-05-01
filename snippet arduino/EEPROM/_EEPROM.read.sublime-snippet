@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+read(${1:/*address*/});
+]]></content>
+    <tabTrigger>_EEPROM.read</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

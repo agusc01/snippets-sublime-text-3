@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+flush();
+]]></content>
+    <tabTrigger>_serial.flush</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strncmp (${1: const char *str1 } , ${2: const char *str2 } , ${3: size_t n}) ;
+]]></content>
+    <tabTrigger>strncmp</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string.h</description>
+</snippet>

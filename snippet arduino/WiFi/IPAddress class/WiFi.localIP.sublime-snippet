@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+localIP();
+]]></content>
+    <tabTrigger>localip</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi-IPAddress</description>
+</snippet>

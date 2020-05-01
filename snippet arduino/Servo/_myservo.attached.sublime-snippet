@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+attached();
+]]></content>
+    <tabTrigger>_Servo.attached</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

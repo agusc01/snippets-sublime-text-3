@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vw_set_rx_inverted(${1:/*inverted/*}) 
+]]></content>
+    <tabTrigger>vw_set_rx_inverted</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# VirtualWire</description>
+</snippet>

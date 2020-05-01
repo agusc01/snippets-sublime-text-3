@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+bool ${1:/*name*/}
+]]></content>
+    <tabTrigger>bool</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# bool</description>
+</snippet>

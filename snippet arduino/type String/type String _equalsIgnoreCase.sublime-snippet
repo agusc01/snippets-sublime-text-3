@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+equalsIgnoreCase(${1:/*"HI" is "hi"*/});
+]]></content>
+    <tabTrigger>_aStr_equalsIgnoreCase</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+assert
+]]></content>
+    <tabTrigger>lb_assert</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# assert</description>
+</snippet>

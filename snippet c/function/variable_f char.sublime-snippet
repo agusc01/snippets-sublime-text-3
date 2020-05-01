@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+char f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_char</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# char</description>
+</snippet>

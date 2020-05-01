@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vw_wait_tx(${1:/*buf*/},${2:/*len*/})
+]]></content>
+    <tabTrigger>vw_wait_tx</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# VirtualWire</description>
+</snippet>

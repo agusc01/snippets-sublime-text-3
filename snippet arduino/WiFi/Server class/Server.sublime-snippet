@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Server.
+]]></content>
+    <tabTrigger>server</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi.server</description>
+</snippet>

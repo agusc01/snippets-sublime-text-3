@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strtok (${1: char *str1 } , ${2: const char *delim });
+]]></content>
+    <tabTrigger>_strtok_string</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string.h</description>
+</snippet>

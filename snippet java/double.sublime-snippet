@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+double ${1:name} = ${2:value} ;
+]]></content>
+    <tabTrigger>double</tabTrigger>
+    <scope>source.java</scope>
+    <description>java double</description>
+</snippet>

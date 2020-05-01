@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+isUpperCase(${1:thisChar});
+]]></content>
+    <tabTrigger>isUpperCase</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

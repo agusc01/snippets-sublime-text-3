@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+default :
+	${2:/*sentence*/}
+
+]]></content>
+    <tabTrigger>default</tabTrigger>
+    <scope>source.java</scope>
+    <description>java default</description>
+</snippet>

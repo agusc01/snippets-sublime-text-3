@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+toLowerCase();
+]]></content>
+    <tabTrigger>_aStr_toLowerCase</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

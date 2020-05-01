@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+break;
+
+]]></content>
+    <tabTrigger>break</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# break</description>
+</snippet>

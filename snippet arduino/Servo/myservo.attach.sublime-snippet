@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+attach(${1:pin},${2:/*min*/},${3:/*max*/});
+]]></content>
+    <tabTrigger>attach</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# Servo</description>
+</snippet>

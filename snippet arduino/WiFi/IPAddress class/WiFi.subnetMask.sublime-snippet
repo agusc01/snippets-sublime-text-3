@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+subnetMask();
+]]></content>
+    <tabTrigger>subnetMask</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi-IPAddress</description>
+</snippet>

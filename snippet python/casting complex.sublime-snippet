@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+complex(${1:a},${2:bi}) 
+]]></content>
+    <tabTrigger>casting.complex</tabTrigger>
+    <scope>source.python</scope>
+    <description>.py</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+int(${1:x}) 
+]]></content>
+    <tabTrigger>casting.int</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# int()</description>
+</snippet>

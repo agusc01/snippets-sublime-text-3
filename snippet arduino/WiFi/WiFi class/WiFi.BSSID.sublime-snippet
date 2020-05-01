@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+BSSID(${1:bssid});
+]]></content>
+    <tabTrigger>bssid</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+seek(${1:/*position*/});
+]]></content>
+    <tabTrigger>_File_seek</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

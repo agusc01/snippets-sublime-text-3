@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+memset (${1: void *str } , ${2: int c }, ${3: size_t n }) ;
+]]></content>
+    <tabTrigger>memset</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# string.h</description>
+</snippet>

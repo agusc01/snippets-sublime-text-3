@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+do{
+	${2:/*statament*/} 
+}while (${1:condition});
+]]></content>
+    <tabTrigger>dowhile</tabTrigger>
+    <scope>source.java</scope>
+    <description>java dowhile</description>
+</snippet>

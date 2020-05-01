@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strlen (${1: const char *str }) ;
+]]></content>
+    <tabTrigger>_strlen_string</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# string.h</description>
+</snippet>

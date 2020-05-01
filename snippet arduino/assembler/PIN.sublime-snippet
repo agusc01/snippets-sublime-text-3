@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+PIN${1:/*B,C,D*/} = B${2:/*****/};
+]]></content>
+    <tabTrigger>_assembler_PIN</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# assembler</description>
+</snippet>

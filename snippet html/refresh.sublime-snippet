@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<meta http-equiv="refresh" content="5">
+]]></content>
+    <tabTrigger>refresh</tabTrigger>
+    <scope>source.html</scope>
+    <description>refresh</description>
+</snippet>

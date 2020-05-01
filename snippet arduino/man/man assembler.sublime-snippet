@@ -1,0 +1,29 @@
+<snippet>
+    <content><![CDATA[
+/*
+	//******************************
+	//MAN ASSEMBLER !!
+	//*******************************
+
+El registro DDR, determina si el pin es una entrada o una salida. 0=entrada, 1 salida
+El registro PORT controla si el pin está en nivel alto o en nivel bajo. 1=HIGH, 2=LOW
+El registro PIN permite leer el estado de un pin que se ha configurado con entrada usando la función pinMode().
+
+B=6 position (pines digitales del 8 al 13) digitalPinToPort=2
+C=6 position (entradas analógicas)			   digitalPinToPort=3
+D=7 position (pines digitales del 0 al 7)  digitalPinToPort=4
+PORTD=B1111110;
+in PORTD, digitalPinToBitMask 0x01 INPUT rx
+in PORTD, digitalPinToBitMask 0x02 OUPUT TX
+
+if (*portInputRegister(digitalPinToPort) & digitalPinToBitMask) 
+	return HIGH;
+else
+	return LOW;
+
+*/
+]]></content>
+    <tabTrigger>man_assembler</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# assembler</description>
+</snippet>

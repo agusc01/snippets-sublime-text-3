@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+String(${1:x}) 
+]]></content>
+    <tabTrigger>casting.String</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

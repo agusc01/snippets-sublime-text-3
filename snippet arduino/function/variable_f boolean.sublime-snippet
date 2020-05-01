@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+boolean f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_boolean</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

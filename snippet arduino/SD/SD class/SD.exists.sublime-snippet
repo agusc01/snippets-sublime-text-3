@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+exists("${1:/*FILE_NAME*/}.txt");
+]]></content>
+    <tabTrigger>exists</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# SD</description>
+</snippet>

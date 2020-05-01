@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+blink();
+]]></content>
+    <tabTrigger>blink</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# lcd</description>
+</snippet>

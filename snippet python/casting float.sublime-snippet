@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+float(${1:x}) 
+]]></content>
+    <tabTrigger>casting.float</tabTrigger>
+    <scope>source.python</scope>
+    <description>.py</description>
+</snippet>

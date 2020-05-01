@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+malloc(${1:size_t size});
+]]></content>
+    <tabTrigger>malloc</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

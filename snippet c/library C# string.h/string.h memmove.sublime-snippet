@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+memmove (${1: void *dest } , ${2: const void *str2 }, ${3: size_t n }) ;
+]]></content>
+    <tabTrigger>memmove</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string.h</description>
+</snippet>

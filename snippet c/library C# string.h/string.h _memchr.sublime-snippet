@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+memchr (${1: const void *str } , ${2: int c }, ${3: size_t n }) ;
+]]></content>
+    <tabTrigger>_memchr_string</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string.h</description>
+</snippet>

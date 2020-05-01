@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+getSocket();
+]]></content>
+    <tabTrigger>getSocket</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+bool f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_bool</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# bool</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+int16_t f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_int16_t</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

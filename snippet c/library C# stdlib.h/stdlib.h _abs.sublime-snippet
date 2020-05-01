@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+abs(${1:int x});
+]]></content>
+    <tabTrigger>_abs_stdlib</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

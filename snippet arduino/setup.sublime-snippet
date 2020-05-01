@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+void setup()
+{
+	Serial.begin(9600);
+	Serial.println("Begin of Serial");
+	$1
+}
+]]></content>
+	<tabTrigger>setup</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>A# setup</description>
+</snippet>

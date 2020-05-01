@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+free(${1:void *ptr});
+]]></content>
+    <tabTrigger>free</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

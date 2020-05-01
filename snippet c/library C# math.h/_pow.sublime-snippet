@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+pow (${1:/*base*/}, ${2:/*exponent*/}); 
+]]></content>
+    <tabTrigger>_pow_stdio</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# math.h</description>
+</snippet>

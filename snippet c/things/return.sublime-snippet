@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+return ${1:/*variable*/} ;
+
+]]></content>
+    <tabTrigger>return</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# return</description>
+</snippet>

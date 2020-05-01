@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+srand(${1:unsigned int seed});
+]]></content>
+    <tabTrigger>srand</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

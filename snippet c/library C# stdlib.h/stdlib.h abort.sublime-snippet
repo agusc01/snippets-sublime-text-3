@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+abort(${1:void});
+]]></content>
+    <tabTrigger>abort</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# abort</description>
+</snippet>

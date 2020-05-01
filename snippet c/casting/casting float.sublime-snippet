@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+float(${1:x}) 
+]]></content>
+    <tabTrigger>casting.float</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# float()</description>
+</snippet>

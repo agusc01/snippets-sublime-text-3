@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+char16_t f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_char16_t</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# char16_t</description>
+</snippet>

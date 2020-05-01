@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+parseFloat();
+]]></content>
+    <tabTrigger>_serial.parsefloat</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

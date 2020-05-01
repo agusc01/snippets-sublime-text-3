@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+noBacklight();
+]]></content>
+    <tabTrigger>_lcd.noBacklight</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

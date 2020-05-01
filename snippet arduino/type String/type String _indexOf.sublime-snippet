@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+indexOf(${1:/*str o char*/});
+]]></content>
+    <tabTrigger>_aStr_indexOf</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

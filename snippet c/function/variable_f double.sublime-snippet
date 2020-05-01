@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+double f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_double</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# double</description>
+</snippet>

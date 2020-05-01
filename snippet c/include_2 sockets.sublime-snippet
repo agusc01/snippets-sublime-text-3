@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <unistd.h>
+#include <netdb.h>
+#include <string.h>
+]]></content>
+    <tabTrigger>_include_socket</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# include socket librarys</description>
+</snippet>

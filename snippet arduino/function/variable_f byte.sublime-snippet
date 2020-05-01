@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+byte f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_byte</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

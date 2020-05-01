@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Math.sqrt(${1:x});
+]]></content>
+    <tabTrigger>math_sqrt</tabTrigger>
+    <scope>source.java</scope>
+    <description>java Math_sqrt</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+#include <${1:lib}.h>
+]]></content>
+    <tabTrigger>include</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# include syslib</description>
+</snippet>

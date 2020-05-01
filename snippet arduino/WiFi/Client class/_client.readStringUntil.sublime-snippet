@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+readStringUntil(${1:/* */});
+]]></content>
+    <tabTrigger>_client.readStringUntil</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

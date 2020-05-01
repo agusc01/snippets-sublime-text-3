@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Math.max(${1:x},${2:y});
+]]></content>
+    <tabTrigger>math_max</tabTrigger>
+    <scope>source.java</scope>
+    <description>java Math_max</description>
+</snippet>

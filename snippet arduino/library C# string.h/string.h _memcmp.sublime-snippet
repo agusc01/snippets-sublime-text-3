@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+memcmp (${1: const void *str1 } , ${2: const void *str2 }, ${3: size_t n }) ;
+]]></content>
+    <tabTrigger>_memcmp_string</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# string.h</description>
+</snippet>

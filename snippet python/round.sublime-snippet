@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+round(${1:variable},${2:redondeo})
+]]></content>
+    <tabTrigger>round</tabTrigger>
+    <scope>source.python</scope>
+    <description>.py round</description>
+</snippet>

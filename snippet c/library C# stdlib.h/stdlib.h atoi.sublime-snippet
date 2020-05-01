@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+atoi(${1:const char *str});
+]]></content>
+    <tabTrigger>atoi</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

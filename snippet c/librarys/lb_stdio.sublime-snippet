@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+stdio
+]]></content>
+    <tabTrigger>lb_stdio</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdio</description>
+</snippet>

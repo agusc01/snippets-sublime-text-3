@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+math
+]]></content>
+    <tabTrigger>lb_math</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# math</description>
+</snippet>

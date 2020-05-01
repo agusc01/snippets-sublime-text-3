@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+setDNS(${1:dns_server1},${2:dns_server2});
+]]></content>
+    <tabTrigger>setDNS</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+mbstowcs(${1:schar_t *pwcs} , ${2:const char *str} , ${3:size_t n});
+]]></content>
+    <tabTrigger>mbstowcs</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

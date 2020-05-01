@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+uint8_t ${1:/*name*/}
+]]></content>
+    <tabTrigger>uint8_t</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# uint8_t</description>
+</snippet>

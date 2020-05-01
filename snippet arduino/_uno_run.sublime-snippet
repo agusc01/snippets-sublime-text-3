@@ -1,0 +1,60 @@
+<snippet>
+    <content><![CDATA[
+#define BAUDRATE 115200
+#define DATE_PROGRAM "May 01 2020"
+#define VERSION_PROGRAM "V 1.1.0"
+
+void setup()
+{
+  // SERIAL !! ***************************************************************************
+  Serial.begin(BAUDRATE);
+  Serial.println("=====================================================");  
+  Serial.println(String("Serial.begin(")+ long(BAUDRATE)+ String(")!"));
+  Serial.println("=====================================================");
+  Serial.print("Fecha de compilacion: ");Serial.println(__DATE__);
+  Serial.println("=====================================================");
+  Serial.print("Fecha de Programa: ");Serial.println(DATE_PROGRAM);
+  Serial.println("=====================================================");
+  Serial.print("Version del Programa: ");Serial.println(VERSION_PROGRAM);
+  Serial.println("=====================================================");
+  Serial.print("__TIME__ : ");Serial.println(__TIME__);
+  Serial.println("=====================================================");
+  Serial.print("__FILE__ : ");Serial.println(__FILE__);
+  Serial.println("=====================================================");
+
+
+
+  // OUTPUTS / INPUTS ********************************************************************
+
+
+
+
+  // SOMETHING !! ************************************************************************
+
+  
+
+
+  //LAST LINE
+  Serial.println("Finished void setup() and Serial.end() !");Serial.end();
+  Serial.println("=====================================================\n");
+}
+void loop()
+{
+  for(;;) //for in LOOP! (two cicles vs ten cicles)
+  {
+    ${1: //run}
+    
+
+
+
+
+  }
+  
+  //LAST LINES
+  while(true);
+}
+]]></content>
+    <tabTrigger>_uno_run</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# uno_run!</description>
+</snippet>

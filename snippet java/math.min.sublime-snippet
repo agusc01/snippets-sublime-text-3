@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Math.min(${1:x},${2:y});
+]]></content>
+    <tabTrigger>math_min</tabTrigger>
+    <scope>source.java</scope>
+    <description>java Math_min</description>
+</snippet>

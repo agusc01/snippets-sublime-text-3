@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rmdir("${1:/*FILE_NAME*/}.txt");
+]]></content>
+    <tabTrigger>_SD.rmdir</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

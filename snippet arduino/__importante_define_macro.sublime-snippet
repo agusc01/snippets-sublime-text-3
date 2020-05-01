@@ -1,0 +1,22 @@
+<snippet>
+    <content><![CDATA[
+/*
+#define ECHOLN(x) Serial.println(x)
+#define ECHO(x) Serial.print(x)
+
+
+#define WEEK_DAYS(x,z) { \
+  if(x==0)z="MONDAY"; \
+  else if(x==1)z="TUESDAY"; \
+  else if(x==2)z="WEDNESDAY"; \
+  else if(x==3)z="THURSDAY"; \
+  else if(x==4)z="FRIDAY"; \
+  else if(x==5)z="SATURDAY"; \
+  else if(x==6)z="SUNDAY"; \
+  else z="NULL";}
+*/
+]]></content>
+    <tabTrigger>_importante_define_macro</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# </description>
+</snippet>

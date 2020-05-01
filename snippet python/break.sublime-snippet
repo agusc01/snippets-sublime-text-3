@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+break
+]]></content>
+    <tabTrigger>break</tabTrigger>
+    <scope>source.python</scope>
+    <description>.py break</description>
+</snippet>

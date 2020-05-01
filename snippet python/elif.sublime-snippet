@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+elif ${1:}:
+  ${2:pass}
+]]></content>
+    <tabTrigger>elif</tabTrigger>
+    <scope>source.python</scope>
+    <description>.py elif</description>
+</snippet>

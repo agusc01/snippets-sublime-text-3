@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+startWith(${1:/*start string*/});
+]]></content>
+    <tabTrigger>_aStr_startWith</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

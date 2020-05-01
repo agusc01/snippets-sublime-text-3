@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+wcstombs(${1:char *str} , ${2:const wchar_t *pwcs} , ${3:size_t n});
+]]></content>
+    <tabTrigger>_wcstombs_stdlib</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

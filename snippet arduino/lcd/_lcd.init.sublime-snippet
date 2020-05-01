@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+init();
+]]></content>
+    <tabTrigger>_lcd.init</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

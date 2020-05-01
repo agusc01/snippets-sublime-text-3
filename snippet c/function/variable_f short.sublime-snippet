@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+short f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_short</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# short</description>
+</snippet>

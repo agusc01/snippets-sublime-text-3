@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+system(${1:const char *string});
+]]></content>
+    <tabTrigger>_system_stdlib</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

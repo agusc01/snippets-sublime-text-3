@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+SSID(${1:wifiAccesPoint});
+]]></content>
+    <tabTrigger>ssid</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi</description>
+</snippet>

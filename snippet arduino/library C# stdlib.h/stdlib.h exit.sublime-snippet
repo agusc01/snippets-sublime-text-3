@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+exit(${1:int status});
+]]></content>
+    <tabTrigger>exit</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

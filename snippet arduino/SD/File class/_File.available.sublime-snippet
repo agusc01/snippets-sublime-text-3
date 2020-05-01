@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+available();
+]]></content>
+    <tabTrigger>_File.available</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

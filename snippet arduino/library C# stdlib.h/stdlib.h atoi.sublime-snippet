@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+atoi(${1:const char *str});
+]]></content>
+    <tabTrigger>atoi</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

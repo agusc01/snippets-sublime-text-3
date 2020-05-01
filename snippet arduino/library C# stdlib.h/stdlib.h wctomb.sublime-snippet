@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+wctomb(${1:char *str} , ${2:wchar_t wchar});
+]]></content>
+    <tabTrigger>wctomb</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

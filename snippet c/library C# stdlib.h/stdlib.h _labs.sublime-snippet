@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+labs(${1:long int x});
+]]></content>
+    <tabTrigger>_labs_stdlib</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

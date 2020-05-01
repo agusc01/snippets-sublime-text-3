@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string
+]]></content>
+    <tabTrigger>lb_string</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string</description>
+</snippet>

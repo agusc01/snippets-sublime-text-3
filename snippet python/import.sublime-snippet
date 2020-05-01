@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import ${1:libreria}
+]]></content>
+    <tabTrigger>import</tabTrigger>
+    <scope>source.python</scope>
+    <description>.py import</description>
+</snippet>

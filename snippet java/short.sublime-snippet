@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+short ${1:name} = ${2:value} ;
+]]></content>
+    <tabTrigger>short</tabTrigger>
+    <scope>source.java</scope>
+    <description>java short</description>
+</snippet>

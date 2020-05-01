@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+signal
+]]></content>
+    <tabTrigger>lb_signal</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# signal</description>
+</snippet>

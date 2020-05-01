@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+volatile 
+]]></content>
+    <tabTrigger>volatile</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# volatile</description>
+</snippet>

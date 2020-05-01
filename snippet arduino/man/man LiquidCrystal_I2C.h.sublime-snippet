@@ -1,0 +1,32 @@
+<snippet>
+    <content><![CDATA[
+/*
+LiquidCrystal() 
+begin() 
+clear() 
+home() 
+setCursor() 
+write() 
+print() 
+cursor() 
+noCursor() 
+blink() 
+noBlink() 
+display() 
+noDisplay() 
+scrollDisplayLeft() 
+scrollDisplayRight() 
+autoscroll() 
+noAutoscroll() 
+leftToRight() 
+rightToLeft() 
+createChar() 
+
+backlight
+noBacklight
+*/
+]]></content>
+    <tabTrigger>man_lcd</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# lcd</description>
+</snippet>

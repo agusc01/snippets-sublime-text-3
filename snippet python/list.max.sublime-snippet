@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+max(${1:l}) 
+]]></content>
+    <tabTrigger>max</tabTrigger>
+    <scope>source.python</scope>
+    <description>.py</description>
+</snippet>

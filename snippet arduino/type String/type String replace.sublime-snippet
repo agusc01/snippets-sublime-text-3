@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+replace(${1:/*old*/}, ${2:/*new*/});
+]]></content>
+    <tabTrigger>replace</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

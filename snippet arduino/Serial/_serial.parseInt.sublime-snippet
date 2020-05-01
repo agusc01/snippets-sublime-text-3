@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+parseInt();
+]]></content>
+    <tabTrigger>_serial.parseint</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

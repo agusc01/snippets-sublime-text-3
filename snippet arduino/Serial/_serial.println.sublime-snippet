@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+println("${1:string}");
+]]></content>
+    <tabTrigger>_serial.println</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

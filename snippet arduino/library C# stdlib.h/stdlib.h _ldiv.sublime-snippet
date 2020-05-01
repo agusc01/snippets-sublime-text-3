@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+ldiv(${1:long int num} , ${2:long int demom});
+]]></content>
+    <tabTrigger>_ldiv_stdlib</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

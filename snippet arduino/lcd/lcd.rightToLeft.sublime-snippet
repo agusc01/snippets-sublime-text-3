@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rightToLeft();
+]]></content>
+    <tabTrigger>rightToLeft</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# lcd</description>
+</snippet>

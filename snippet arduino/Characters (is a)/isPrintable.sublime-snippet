@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+isPrintable(${1:thisChar});
+]]></content>
+    <tabTrigger>isPrintable</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

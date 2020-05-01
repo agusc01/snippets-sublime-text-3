@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+PORT${1:/*B,C,D*/} = B${2:/*****/};
+]]></content>
+    <tabTrigger>_assembler_PORT</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# assembler</description>
+</snippet>

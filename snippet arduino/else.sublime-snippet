@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+else
+{
+    ${2}
+}
+]]></content>
+    <tabTrigger>else</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# else</description>
+</snippet>

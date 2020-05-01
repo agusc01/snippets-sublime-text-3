@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+close();
+]]></content>
+    <tabTrigger>_File.close</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

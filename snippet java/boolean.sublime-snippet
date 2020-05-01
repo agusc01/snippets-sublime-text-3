@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+boolean ${1:name} = ${2:/*true or false*/} ;
+]]></content>
+    <tabTrigger>boolean</tabTrigger>
+    <scope>source.java</scope>
+    <description>java boolean</description>
+</snippet>

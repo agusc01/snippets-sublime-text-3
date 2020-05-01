@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+status();
+]]></content>
+    <tabTrigger>status</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+length();
+]]></content>
+    <tabTrigger>_aStr_length</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# type String</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+str(${1:x}) 
+]]></content>
+    <tabTrigger>casting.str</tabTrigger>
+    <scope>source.python</scope>
+    <description>.py</description>
+</snippet>

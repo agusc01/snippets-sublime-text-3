@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+abort(${1:void});
+]]></content>
+    <tabTrigger>_abort_stdlib</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

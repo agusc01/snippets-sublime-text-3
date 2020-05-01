@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+boolean ${1:/*name*/}
+]]></content>
+    <tabTrigger>boolean</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# variable</description>
+</snippet>

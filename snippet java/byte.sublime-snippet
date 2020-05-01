@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+byte ${1:name} = ${2:value} ;
+]]></content>
+    <tabTrigger>byte</tabTrigger>
+    <scope>source.java</scope>
+    <description>java byte</description>
+</snippet>

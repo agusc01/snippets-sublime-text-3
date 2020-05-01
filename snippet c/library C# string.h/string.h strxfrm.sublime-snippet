@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strxfrm (${1: char *dest } , ${2: const char *str } , ${3: size_t n }) ;
+]]></content>
+    <tabTrigger>strxfrm</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string.h</description>
+</snippet>

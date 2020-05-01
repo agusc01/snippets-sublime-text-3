@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+uint8_t ${1:/*name*/}
+]]></content>
+    <tabTrigger>uint8_t</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# uint8_t</description>
+</snippet>

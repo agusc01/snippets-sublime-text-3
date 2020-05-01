@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+atexit(${1:void (*func)(void)});
+]]></content>
+    <tabTrigger>atexit</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

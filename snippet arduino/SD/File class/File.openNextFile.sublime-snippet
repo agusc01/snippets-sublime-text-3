@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+openNextFile();
+]]></content>
+    <tabTrigger>opennextfile</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# File</description>
+</snippet>

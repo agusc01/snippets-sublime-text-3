@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+((${1:bitMask}) & *portInputRegister((${2:port}))); //digitalReadmy
+]]></content>
+    <tabTrigger>digitalReadmy</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# assembler</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+float f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_float</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

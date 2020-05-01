@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+#define ${1:IDENTIFIER} ${2:string}
+]]></content>
+    <tabTrigger>DEFINE</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# define</description>
+</snippet>

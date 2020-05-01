@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+locale
+]]></content>
+    <tabTrigger>lb_locale</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# locale</description>
+</snippet>

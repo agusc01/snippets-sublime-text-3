@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+uint8_t f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_uint8_t</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# uint8_t</description>
+</snippet>

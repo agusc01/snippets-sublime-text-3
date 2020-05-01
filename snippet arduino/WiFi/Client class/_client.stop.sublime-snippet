@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+stop();
+]]></content>
+    <tabTrigger>_client.stop</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

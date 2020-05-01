@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+detach();
+]]></content>
+    <tabTrigger>detach</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# Servo</description>
+</snippet>

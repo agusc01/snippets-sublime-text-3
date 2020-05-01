@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+float ${1:name} = ${2:value} ;
+]]></content>
+    <tabTrigger>float</tabTrigger>
+    <scope>source.java</scope>
+    <description>java float</description>
+</snippet>

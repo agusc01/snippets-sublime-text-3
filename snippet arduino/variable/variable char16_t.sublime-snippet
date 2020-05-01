@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+char16_t ${1:/*name*/}
+]]></content>
+    <tabTrigger>char16_t</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# variable</description>
+</snippet>

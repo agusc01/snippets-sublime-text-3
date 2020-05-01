@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+disconnect();
+]]></content>
+    <tabTrigger>disconnect</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# WiFi</description>
+</snippet>

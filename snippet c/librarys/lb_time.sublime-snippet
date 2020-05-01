@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+time
+]]></content>
+    <tabTrigger>lb_time</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# time</description>
+</snippet>

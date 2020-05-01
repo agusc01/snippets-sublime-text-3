@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vw_wait_rx();
+]]></content>
+    <tabTrigger>vw_wait_rx</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# VirtualWire</description>
+</snippet>

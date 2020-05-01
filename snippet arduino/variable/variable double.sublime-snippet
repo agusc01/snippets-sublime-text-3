@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+double ${1:/*name*/}
+]]></content>
+    <tabTrigger>double</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# double</description>
+</snippet>

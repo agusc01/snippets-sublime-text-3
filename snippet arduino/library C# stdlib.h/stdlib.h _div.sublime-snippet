@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+div(${1:int num} , ${2:int demom});
+]]></content>
+    <tabTrigger>_div_stdlib</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# stdlib.h</description>
+</snippet>

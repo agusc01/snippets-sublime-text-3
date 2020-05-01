@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+strcat (${1: void *dest } , ${2: const char *str }) ;
+]]></content>
+    <tabTrigger>strcat</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# string.h</description>
+</snippet>

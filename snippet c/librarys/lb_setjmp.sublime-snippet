@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+setjmp
+]]></content>
+    <tabTrigger>lb_setjmp</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# setjmp</description>
+</snippet>

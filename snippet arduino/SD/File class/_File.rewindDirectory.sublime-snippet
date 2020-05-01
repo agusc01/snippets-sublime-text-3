@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rewindDirectory();
+]]></content>
+    <tabTrigger>_File.rewinddirectory</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

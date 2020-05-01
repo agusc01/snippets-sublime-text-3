@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+findUntil(${1:target}, ${2:terminal});
+]]></content>
+    <tabTrigger>findUntil</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# Serial</description>
+</snippet>

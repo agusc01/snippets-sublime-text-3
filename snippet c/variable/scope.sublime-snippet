@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+scope 
+]]></content>
+    <tabTrigger>scope</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# scope</description>
+</snippet>

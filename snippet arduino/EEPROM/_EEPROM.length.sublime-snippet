@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+length();
+]]></content>
+    <tabTrigger>_EEPROM.length</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

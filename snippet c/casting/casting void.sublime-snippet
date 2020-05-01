@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+void(${1:x}) 
+]]></content>
+    <tabTrigger>casting.void</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# void()</description>
+</snippet>

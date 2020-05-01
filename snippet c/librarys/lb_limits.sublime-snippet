@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+limits
+]]></content>
+    <tabTrigger>lb_limits</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# limits</description>
+</snippet>

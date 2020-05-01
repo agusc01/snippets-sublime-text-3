@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+scanf("%${1:datatype}", &${2:address});
+]]></content>
+    <tabTrigger>scanf</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdio.h</description>
+</snippet>

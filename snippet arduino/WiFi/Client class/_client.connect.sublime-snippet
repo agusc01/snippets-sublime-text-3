@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+connect(${1:ip or URL}, ${2:port});
+]]></content>
+    <tabTrigger>_client.connect</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A#</description>
+</snippet>

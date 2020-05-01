@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+int f_${1:/*name*/} (${2:/* */})
+{
+	${3:/*function*/}
+}
+]]></content>
+    <tabTrigger>ff_int</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# int</description>
+</snippet>

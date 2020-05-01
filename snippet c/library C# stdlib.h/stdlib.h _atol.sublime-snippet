@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+atol(${1:const char *str});
+]]></content>
+    <tabTrigger>_atol_stdlib</tabTrigger>
+    <scope>source.c</scope>
+    <description>C# stdlib.h</description>
+</snippet>

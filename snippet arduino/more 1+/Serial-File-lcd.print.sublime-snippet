@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+print("${1:string}");
+]]></content>
+    <tabTrigger>print</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>A# Serial-File-lcd</description>
+</snippet>
